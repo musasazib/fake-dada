@@ -1,22 +1,22 @@
 [
     {
-      "id": "616d91b06efc988f32947297",
-      "img": "http://placehold.it/32x32",
-      "name": "Essie York"
+        "id": "616d91b06efc988f32947297",
+        "img": "https://i.ibb.co/9NszsJ8/product1.png",
+        "name": "Protein Power"
     },
     {
-      "id": "616d91b0255f88bf66bc7f92",
-      "img": "http://placehold.it/32x32",
-      "name": "Jocelyn Booth"
+        "id": "616d91b0255f88bf66bc7f92",
+        "img": "https://i.ibb.co/pn6XXyt/product2.png",
+        "name": "Performance Protein"
     },
     {
-      "id": "616d91b0a9e1034114fe6e35",
-      "img": "http://placehold.it/32x32",
-      "name": "Blackwell Sellers"
+        "id": "616d91b0a9e1034114fe6e35",
+        "img": "https://i.ibb.co/Rpybj4z/product3.png",
+        "name": "Optimum Nutrition"
     },
     {
-      "id": "616d91b028950633c96b290b",
-      "img": "http://placehold.it/32x32",
-      "name": "Morgan Small"
+        "id": "616d91b028950633c96b290b",
+        "img": "https://i.ibb.co/RQks4yB/product4.png",
+        "name": "Absorb Nutrition"
     }
-  ]
+]
