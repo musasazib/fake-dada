@@ -2,21 +2,25 @@
     {
         "id": "616d91b06efc988f32947297",
         "img": "https://i.ibb.co/9NszsJ8/product1.png",
-        "name": "Protein Power"
+        "name": "Protein Power",
+        "price": "$156"
     },
     {
         "id": "616d91b0255f88bf66bc7f92",
         "img": "https://i.ibb.co/pn6XXyt/product2.png",
-        "name": "Performance Protein"
+        "name": "Performance Protein",
+        "price": "$160"
     },
     {
         "id": "616d91b0a9e1034114fe6e35",
         "img": "https://i.ibb.co/Rpybj4z/product3.png",
-        "name": "Optimum Nutrition"
+        "name": "Optimum Nutrition",
+        "price": "$190"
     },
     {
         "id": "616d91b028950633c96b290b",
         "img": "https://i.ibb.co/RQks4yB/product4.png",
-        "name": "Absorb Nutrition"
+        "name": "Absorb Nutrition",
+        "price": "$120"
     }
 ]
