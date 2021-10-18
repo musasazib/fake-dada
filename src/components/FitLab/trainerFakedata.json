@@ -2,21 +2,25 @@
     {
         "id": "616d91b06efc988f32947297",
         "img": "http://placehold.it/32x32",
-        "name": "Essie York"
+        "name": "Essie York",
+        "designation": "Athletic Trainer"
     },
     {
         "id": "616d91b0255f88bf66bc7f92",
         "img": "http://placehold.it/32x32",
-        "name": "Jocelyn Booth"
+        "name": "Jocelyn Booth",
+        "designation": "Master Trainer"
     },
     {
         "id": "616d91b0e1034114fe6e35",
         "img": "http://placehold.it/32x32",
-        "name": "Blackwell Sellers"
+        "name": "Blackwell Sellers",
+        "designation": "Athletic Trainer"
     },
     {
         "id": "616d91b950633c96b290b",
         "img": "http://placehold.it/32x32",
-        "name": "Morgan Small"
+        "name": "Morgan Small",
+        "designation": "Master Trainer"
     }
 ]
